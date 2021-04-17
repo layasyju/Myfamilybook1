@@ -1,0 +1,26 @@
+    body{
+    text-align:center;
+    background-color: #bea5b2;
+    }
+    #p1{
+    word-spacing:10px;
+    font-variant:small-caps;
+    text-align:center;
+    font-size:80px;
+    }
+    #p3{
+    font-size:50px;
+    }
+    #i1{
+    border-style:solid;
+    border-color:#f8cde8;
+    border:1px;
+    padding:5px;
+    width:450px;
+    }
+    button{
+    color:rgb(245, 204, 224);
+    font-size:20px;
+    background-color:rgb(170, 167, 169)
+    }
+    
